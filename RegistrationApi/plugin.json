@@ -1,0 +1,10 @@
+[ { "author" : "Devdutt Sharma",
+    "version": "1.0",
+    "name" : "Registration",
+    "url" : "https://github.com/devd123/Codiad-Registration.git",
+    "rightbar" : [{
+        "action" : "codiad.regisTration.open();",
+        "icon" : "icon-palette",
+        "title" : "Registration"
+        }]
+  } ]
