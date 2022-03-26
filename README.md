@@ -1,6 +1,7 @@
 # README #
 
-This README would normally document whatever steps are necessary to get your application up and running.
+This project allows a user to visit your WordPress site and create a user account in your WordPress site and then automaticly create a user account on the 
+Codiad WebIDE as long as the Codiad.com WebIDE is installed.  The benefit to this is that other wise a seperate account must be created by the admin on the Codiad WebIDE to allow a user to upload and edit code.
 
 ### What is this repository for? ###
 
@@ -12,7 +13,7 @@ This README would normally document whatever steps are necessary to get your app
 
 * Install plugin as normal with WordPress using the add new plugin from wp-admin dashboard
 * Configuration
-* Dependencies: Have a installed Codiad.com located in a folder names WebIDE in the root of your WordPress Folder.
+* Dependencies: Have a installed Codiad.com located in a folder nameed WebIDE in the root of your WordPress Folder.
 * Database configuration: Standard WordPress Install on Lamp Server.
 * How to run tests: None available yet
 * Deployment instructions: Standard methods for WordPress plugins.
